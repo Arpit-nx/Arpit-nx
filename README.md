@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN, pyTorch**
 
-- 👨‍💻 All of my projects are available at [github.com/Arpit-nx](github.com/Arpit-nx)
+- 👨‍💻 All of my projects are available at [github.com/Arpit-nx](https://github.com/Arpit-nx)
 
 - 💬 Ask me about **Django, Flask, python**
 
