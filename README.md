@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpit-nx&label=Profile%20views&color=0e75b6&style=flat" alt="arpit-nx" /> </p>
 
-- 🔭 I’m currently working on [my AI tutor assistant at](https://github.com/Arpit-nx/Ai-Tutor)
+- 🔭 I’m currently working on [my AI tutor assistant](https://github.com/Arpit-nx/Ai-Tutor)
 
 - 🌱 I’m currently learning **MERN, pyTorch**
 
